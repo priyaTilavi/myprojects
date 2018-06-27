@@ -1,0 +1,170 @@
+@CHARSET "ISO-8859-1";
+
+
+	#profile{
+		color: darkred;
+		font-size: 30px;
+		font-weight: bolder;
+		
+	}
+	
+	p{
+		padding: 0;
+		margin: 0 auto;
+	}
+	.navbar-default {
+	height: 80px;
+	
+	}
+
+	.navbar{
+	 margin: 0;
+	 padding: 0;
+	}
+	.navbar-header{
+	font-size: large;
+	font-weight: bold;
+	}
+	#pageBody{
+	 height: 600px;
+	 background-image: url("wall.png");
+	background-repeat: no-repeat;
+	background-size:100%;
+	border: 3px solid ;
+	padding: 0;
+	margin: 0;
+	margin-bottom: 20px;
+	 
+	}
+
+	.j1{
+
+		height: 70%;
+	}
+	#pageBody2{
+	 height: 710px;
+	 background-image: url("wall.png");
+	background-repeat: no-repeat;
+	background-size:100%;
+	border: 3px solid ;
+	padding: 0;
+	margin: 0;
+	margin-bottom: 20px;
+	 
+	}
+	#footer{
+		height: 100px;
+		background-color: #AFCEE4;
+		
+	}
+	.center-table
+	{
+	  margin: 0 auto;
+	  float: none ;
+	}
+
+
+	.nav3{
+		background-image: url("color.jpg");
+		background-repeat: no-repeat;
+		background-size: 100%;
+		font-size:100%;
+		
+	
+	}
+	.wall{
+	background-color: #072D51;
+	}
+	
+	.nav1{
+		border-bottom: 1px groove darkgray;
+		background-image: url("color.jpg");
+		background-repeat: no-repeat;
+		background-size: 100%;
+		
+	
+	}
+
+
+
+	.nav2{
+	background-color: 		white;
+	}	
+	.jumbotron{
+	
+		
+		width: 100%;
+		height: 550px;
+	}
+	
+	.back{
+		height: 720px;
+	}
+	
+	.navbar-header{
+	 color: black;
+	}
+
+	#aboutMe{
+		height: 500px;
+		width: 630px;
+		background-image:url("border2.png");
+		background-repeat: no-repeat;
+	
+		border-radius: 25px;
+		margin: 50px 10px 10px 900px;
+		padding:20px;
+		padding-top:20px;
+		font-family: Georgia, Serif;
+		
+		color: purple;
+		float: left;
+		
+	}
+	td, th{
+		width: 25%;
+		font-family: serif;
+		text-align: center;
+
+
+		
+	}
+	.jumbotron {
+
+
+		 background-size: cover;
+		 height: 100%;}
+		 
+
+	.myclass{
+	color: #6495ED;
+	font-size: 20px;
+	}
+	.myclass2{
+	color: #6495ED;
+	font-size: 16px;
+	}
+	.colorclass{
+	color: #6495ED;
+	}
+	li{
+		padding: 0 10px 0 10px;
+		
+	}
+	.container{
+	padding: 0 30px 0 30px;
+	}
+	.bottomgray{
+	border-bottom: 1px solid gray;
+	}
+	
+	.jumbotron{
+	padding-top: 30px;
+	}
+	
+	.secondcolor{
+	color: gray;
+	}
+	
+
+
